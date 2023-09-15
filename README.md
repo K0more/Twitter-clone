@@ -1,4 +1,4 @@
-#FullStack Twitter clone 
+# FullStack Twitter clone 
 
 The funcionalities are:
 
