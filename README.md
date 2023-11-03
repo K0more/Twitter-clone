@@ -15,3 +15,5 @@ The funcionalities are:
 - Comments / Replies
 - Likes functionality
 - Vercel Deployment
+
+### Reference taken from https://github.com/antonioerdeljac/twitter-clone
